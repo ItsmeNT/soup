@@ -8,10 +8,11 @@ An open source , soup printer made by lofi!
 [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 ## What does this program do?
 It prints the word "soup" in your terminal every second , indifenitely
 ## How does it work?
-It uses open-source libraries and the programming language python , to print the word "soup in your terminal every second , indifenitely
+It uses the python and javascript programming languages to print the word "soup in your terminal every second , indifenitely
 ## How long did it take you to make?
 The idea had been in my head for about two years now , but active development of the project started about 4 months ago and now its finally finished
 ## Will more updates be made?
