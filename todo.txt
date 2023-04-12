@@ -1,5 +1,4 @@
 Things to soup in :
-C++
 C
 Fortran
 Assembly
@@ -9,4 +8,3 @@ Minecraft Plugin
 Minecraft Command Block
 HTML
 CSS
-Italiano
