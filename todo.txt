@@ -1,7 +1,6 @@
 Things to soup in :
 C
 Fortran
-Assembly
 Redstone
 Roblox
 Minecraft Plugin
