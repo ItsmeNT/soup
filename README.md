@@ -13,7 +13,7 @@ An open source , soup printer made by nicky!
 ## What does this program do?
 It prints the word soup in your terminal every second , indifenitely
 ## How does it work?
-It uses the python , javascript , go , c++ , and italian programming languages to print the word "soup in your terminal every second , indifenitely
+It uses programming languages to print the word "soup in your terminal every second , indifenitely
 ## How long did it take you to make?
 The idea had been in my head for about two years now , but active development of the project started about 4 months ago and now its finally finished
 ## Will more updates be made?
